@@ -9,37 +9,37 @@ function Portfolio() {
       <div className={styles.port_list}>
         <div className={styles.port_items}>
             <Tilt scale={1.1} transitionSpeed={2500} tiltReverse={true}>
-              <img src="src/assets/Images/hospitality-services.jpg" alt="coding" />
+              <img src="src/assets/Images/hospitality-services.webp" alt="coding" />
             </Tilt>
             <p>Hotel & Hospitality Website </p>
         </div>
         <div className={styles.port_items}>
             <Tilt scale={1.1} transitionSpeed={2500} tiltReverse={true}>
-              <img src="src/assets/Images/ecommerce-service.jpg" alt="coding" />
+              <img src="src/assets/Images/ecommerce-service.webp" alt="coding" />
             </Tilt>
             <p>E-Commerce Website for electronic devices</p>
         </div>
         <div className={styles.port_items}>
             <Tilt scale={1.1} transitionSpeed={2500} tiltReverse={true}>
-              <img src="src/assets/Images/gearbox-service.png" alt="coding" />
+              <img src="src/assets/Images/gearbox-service.webp" alt="coding" />
             </Tilt>
             <p>GearBox Website</p>
         </div>
         <div className={styles.port_items}>
             <Tilt scale={1.1} transitionSpeed={2500} tiltReverse={true}>
-              <img src="src/assets/Images/internal-website.png" alt="coding" />
+              <img src="src/assets/Images/internal-website.webp" alt="coding" />
             </Tilt>
             <p>Internal HR website</p>
         </div>
         <div className={styles.port_items}>
             <Tilt scale={1.1} transitionSpeed={2500} tiltReverse={true}>
-              <img src="src/assets/Images/online-banking.png" alt="coding" />
+              <img src="src/assets/Images/online-banking.webp" alt="coding" />
             </Tilt>
             <p>Online e-banking System</p>
         </div>
         <div className={styles.port_items}>
             <Tilt scale={1.1} transitionSpeed={2500} tiltReverse={true}>
-              <img src="src/assets/Images/elearning-website.png" alt="coding" />
+              <img src="src/assets/Images/elearning-website.webp" alt="coding" />
             </Tilt>
             <p>E-learning System Website</p>
         </div>
